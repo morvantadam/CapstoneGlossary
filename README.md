@@ -9,3 +9,5 @@
 - Ideally, each webpage will also have subsections, with the top level providing a very surface-level understanding, with the futher portions going into more intricate detail.
 
 # Pull requests and contributions are accepted and encouraged!
+
+# The most up-to-date content can be found in the dev branch.
